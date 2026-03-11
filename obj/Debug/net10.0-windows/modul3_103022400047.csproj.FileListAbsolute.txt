@@ -1,0 +1,17 @@
+C:\Users\nashb\source\repos\modul3_103022400047\modul3_103022400047\obj\Debug\net10.0-windows\modul3_103022400047.Form1.resources
+C:\Users\nashb\source\repos\modul3_103022400047\modul3_103022400047\obj\Debug\net10.0-windows\modul3_103022400047.csproj.GenerateResource.cache
+C:\Users\nashb\source\repos\modul3_103022400047\modul3_103022400047\obj\Debug\net10.0-windows\modul3_103022400047.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nashb\source\repos\modul3_103022400047\modul3_103022400047\obj\Debug\net10.0-windows\modul3_103022400047.AssemblyInfoInputs.cache
+C:\Users\nashb\source\repos\modul3_103022400047\modul3_103022400047\obj\Debug\net10.0-windows\modul3_103022400047.AssemblyInfo.cs
+C:\Users\nashb\source\repos\modul3_103022400047\modul3_103022400047\obj\Debug\net10.0-windows\modul3_103022400047.csproj.CoreCompileInputs.cache
+C:\Users\nashb\source\repos\modul3_103022400047\modul3_103022400047\obj\Debug\net10.0-windows\modul3_103022400047.sourcelink.json
+C:\Users\nashb\source\repos\modul3_103022400047\modul3_103022400047\bin\Debug\net10.0-windows\modul3_103022400047.exe
+C:\Users\nashb\source\repos\modul3_103022400047\modul3_103022400047\bin\Debug\net10.0-windows\modul3_103022400047.deps.json
+C:\Users\nashb\source\repos\modul3_103022400047\modul3_103022400047\bin\Debug\net10.0-windows\modul3_103022400047.runtimeconfig.json
+C:\Users\nashb\source\repos\modul3_103022400047\modul3_103022400047\bin\Debug\net10.0-windows\modul3_103022400047.dll
+C:\Users\nashb\source\repos\modul3_103022400047\modul3_103022400047\bin\Debug\net10.0-windows\modul3_103022400047.pdb
+C:\Users\nashb\source\repos\modul3_103022400047\modul3_103022400047\obj\Debug\net10.0-windows\modul3_103022400047.dll
+C:\Users\nashb\source\repos\modul3_103022400047\modul3_103022400047\obj\Debug\net10.0-windows\refint\modul3_103022400047.dll
+C:\Users\nashb\source\repos\modul3_103022400047\modul3_103022400047\obj\Debug\net10.0-windows\modul3_103022400047.pdb
+C:\Users\nashb\source\repos\modul3_103022400047\modul3_103022400047\obj\Debug\net10.0-windows\modul3_103022400047.genruntimeconfig.cache
+C:\Users\nashb\source\repos\modul3_103022400047\modul3_103022400047\obj\Debug\net10.0-windows\ref\modul3_103022400047.dll
